@@ -1,0 +1,23 @@
+<<<[20:12:32] 648.3, 122.9, 5.281
+[20:12:33] 648.6, 123.0, 5.285
+[20:12:34] 648.7, 122.9, 5.177
+[20:12:35] 637.5, 123.1, 5.200
+[20:12:36] 645.1, 122.9, 5.293
+[20:12:37] 650.6, 123.0, 5.212
+[20:12:38] 640.0, 123.0, 5.176
+[20:12:39] 639.7, 123.1, 5.171
+[20:12:40] 639.4, 123.0, 5.175
+[20:12:41] 639.1, 123.1, 5.174
+[20:12:42] 678.0, 123.0, 5.214
+[20:12:43] 688.0, 123.1, 5.167
+[20:12:45] 636.6, 123.1, 5.168
+[20:12:47] 670.9, 123.0, 5.221
+wattsup: [error] Reading final time stamp: Bad address
+[20:12:54] 636.5, 122.9, 5.172
+wattsup: [error] Reading final time stamp: Bad address
+[20:13:01] 636.3, 123.0, 5.169
+wattsup: [error] Reading final time stamp: Bad address
+[20:13:08] 693.7, 122.9, 5.172
+wattsup: [error] Reading final time stamp: Bad address
+wattsup: [error] Blech. Giving up on read: Bad address
+wattsup: [error] Reading final time stamp: Bad address

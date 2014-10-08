@@ -1,0 +1,48 @@
+<<<wattsup: [error] Reading final time stamp: Bad address
+[14:21:16] 652.4, 122.6, 5.290
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:23] 636.2, 122.6, 5.161
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:30] 632.6, 122.2, 6.548
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:37] 631.9, 122.6, 5.147
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:44] 631.7, 122.7, 5.149
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:51] 721.3, 122.7, 5.149
+[14:21:52] 631.9, 122.8, 5.145
+wattsup: [error] Reading final time stamp: Bad address
+[14:21:59] 631.8, 122.6, 5.143
+[14:22:01] 713.4, 122.6, 5.150
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:08] 631.9, 122.6, 5.150
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:15] 631.6, 122.6, 5.143
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:22] 631.7, 121.9, 7.779
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:29] 911.1, 121.9, 8.040
+[14:22:30] 697.1, 122.6, 5.158
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:37] 981.4, 122.1, 7.313
+[14:22:39] 635.1, 122.6, 5.164
+wattsup: [error] Reading final time stamp: Bad address
+[14:22:46] 983.8, 121.9, 8.085
+[14:22:48] 984.6, 121.9, 8.097
+[14:22:50] 769.7, 122.6, 5.181
+[14:22:53] 636.2, 122.6, 5.167
+[14:22:54] 635.9, 122.6, 5.193
+[14:22:56] 927.4, 121.9, 8.057
+[14:22:58] 984.5, 121.9, 8.081
+[14:22:59] 984.8, 122.0, 8.089
+[14:23:00] 985.3, 122.0, 8.096
+[14:23:02] 986.2, 121.9, 8.100
+[14:23:03] 986.6, 121.9, 8.104
+[14:23:04] 987.0, 121.9, 8.110
+[14:23:05] 987.4, 121.9, 8.110
+[14:23:06] 987.9, 121.9, 8.115
+[14:23:07] 988.2, 121.8, 8.118
+[14:23:08] 988.6, 121.9, 8.122
+[14:23:09] 927.4, 122.6, 5.203
+[14:23:10] 638.0, 122.6, 5.185
+[14:23:11] 637.7, 122.6, 5.178

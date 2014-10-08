@@ -1,0 +1,3 @@
+<<<wattsup: [error] Reading final time stamp: Bad address
+wattsup: [error] Blech. Giving up on read: Bad address
+wattsup: [error] Reading final time stamp: Bad address

@@ -1,0 +1,2 @@
+<<<wattsup: [error] Reading final time stamp: Bad address
+[17:02:56] 645.9, 122.5, 5.260
