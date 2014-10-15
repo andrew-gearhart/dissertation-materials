@@ -1,3 +1,4 @@
+# calculate raw data for cityscape model, given a set of parameters
 #!/usr/bin/python2.7
 
 import time

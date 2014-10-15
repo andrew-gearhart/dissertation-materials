@@ -1,0 +1,7 @@
+10/15/14
+Andrew Scott Gearhart
+agearh@gmail.com
+UC Berkeley
+
+This directory contains code for the SGEMM and SGEMV heterogeneous benchmark described in chapter 3 of my dissertation.
+I also include a bash script to loop through a set of problem sizes, collect power data, and then parse this data using another python script.

@@ -1,3 +1,5 @@
+% Matlab script to fit model parameters in various ways depending on
+% which lines are commented/uncommented
 format long g
 
 fitData = zeros(2,9);

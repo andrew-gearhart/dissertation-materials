@@ -1,0 +1,11 @@
+10/15/14
+Andrew Scott Gearhart
+agearh@gmail.com
+UC Berkeley
+
+This repo contains code and data discussed within my PhD dissertation in computer science titled "Bounds on the
+Energy Consumption of Computational Kernels". The repo is sorted according to dissertation chapter, to aid interested
+parties. As a disclaimer, the code within this repo was not written in an especially scalable manner and
+has not been tested outside the confines of the specific testbed environments discussed in the dissertation. Thus,
+some code hacking (and modification of system settings) may be required for benchmarking code to compile and run
+correctly. 

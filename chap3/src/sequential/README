@@ -1,0 +1,6 @@
+10/15/14
+Andrew Scott Gearhart
+agearh@gmail.com
+UC Berkeley
+
+This directory contains source for naive and tuned DGEMV and DGEMM on a sequential machine. Data was collected via the Intel compiler and Intel's Math Kernel Library (see dissertation Chapter 3 for further details). 

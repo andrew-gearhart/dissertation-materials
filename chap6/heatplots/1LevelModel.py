@@ -2,7 +2,8 @@
 # UC Berkeley
 #
 # This code implements the basic one-level model of machine runtime and energy assuming
-# a distributed heterogeneous environment
+# a distributed homogeneous environment. Note that various lines of code need to be commented
+# or uncommented depending on the choice of machine parameters and algorithm. 
 
 from scipy import interpolate
 from scipy.optimize import *
@@ -183,7 +184,7 @@ def n_vs_c_withFixed_p_HBL(params):
     ret['repLimit'] = repLimit
 
 #    # ok, now need to interpolate and hack the constant expressions
-
+# COMMENT THIS OUT FOR MATMUL! Interpolation of energy and runtime bounds fails for this algorithm!
     if (Ecrazy != 0):
         energyConstInv = interpolate.splrep(constE[:Ecrazy],Narray[:Ecrazy]) # interpolate inverse function
     else:
@@ -200,6 +201,7 @@ def n_vs_c_withFixed_p_HBL(params):
     ret['newConstTx'] = constTUpdated
     ret['newY'] = cHat
 
+# uncomment for MATMUL!!!
 #    ret['constE'] = constE
 #    ret['constT'] = constT
 

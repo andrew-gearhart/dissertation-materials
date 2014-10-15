@@ -41,22 +41,7 @@ typedef int32_t int32;
 // USER DEFINED CONSTANTS...MODIFY HERE!!!
 
 // Machine Constants
-// IVB
-/*
-#define CPU_MODEL IVY_BRIDGE
-#define NUM_PHYS_CORES_PER_SOCKET 4
-#define NUM_LOGICAL_CORES_PER_PHYS_CORE 1
-#define NUM_CORES_PER_SOCKET (NUM_PHYS_CORES_PER_SOCKET*NUM_LOGICAL_CORES_PER_PHYS_CORE)
-#define NUM_SOCKETS 1
-#define NUM_CORES (NUM_CORES_PER_SOCKET*NUM_SOCKETS)
-#define CORE_GEN_COUNTER_MAX 4
-#define CBO_COUNTER_NUM_MAX 2
-#define NUM_IMC_CHANNELS 4
-// ignoring the fixed imc channel that counts cycles for now...
-#define IMC_COUNTER_NUM_MAX 4
-*/
-
-// NHM-EX
+// NHM-EX (Xeon 7560)
 
 #define CPU_MODEL NEHALEM_EX
 #define NUM_PHYS_CORES_PER_SOCKET 8
@@ -71,7 +56,7 @@ typedef int32_t int32;
 #define IMC_COUNTER_NUM_MAX 4
 
 
-// JKT
+// JKT (Sandy Bridge-EP)
 /*
 #define CPU_MODEL JAKETOWN
 #define NUM_PHYS_CORES_PER_SOCKET 8

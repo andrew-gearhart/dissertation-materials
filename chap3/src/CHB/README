@@ -1,0 +1,7 @@
+10/15/14
+Andrew Scott Gearhart
+agearh@gmail.com
+UC Berkeley
+
+This directory contains a version of CounterHomeBrew that was used on a quad-socket Xeon 7560 and a dual-socket
+Sandy Bridge-EP server to count traffic between last-level cache and DRAM. This counting process was done via Cache Box (Cbo) counters, as opposed to memory controllers. Performance counting on the cores (as well as counting memory traffic between L1 and L2, and L2 and L3) has been evaluated on the Sandy Bridge-EP machine, but not on the Xeon 7560-based testbed. Also, data collected for the dissertation used the Intel compiler and Intel's Math Kernel Library. CounterHomeBrew has not been sufficiently evaluated with other compilers or linear algebra libraries.

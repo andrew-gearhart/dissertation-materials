@@ -1,3 +1,4 @@
+# use matplotlib to plot a heat plot of energy efficiency
 from math import *
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm

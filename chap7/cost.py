@@ -1,3 +1,4 @@
+# calculate financial cost per task (and other metrics) given a fixed set of parameters
 #!/usr/bin/python2.7
 
 from math import floor,ceil

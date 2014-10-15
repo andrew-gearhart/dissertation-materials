@@ -1,3 +1,4 @@
+// Sequential code to execute memory microbenchmarks to evaluate counters for accuracy. 
 #include "CounterHomeBrew.h"
 #include "loops.h"
 #include "pthread.h"
